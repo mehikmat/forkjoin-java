@@ -1,0 +1,14 @@
+/target/
+/tmp/
+/target/
+/plumbr/
+*new_logs*
+*logigng.log*
+.idea
+*.iml*
+*.project
+*.classpath
+*.settings
+log
+crawl_seed.properties
+contact_seed.properties
